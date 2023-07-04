@@ -5,6 +5,8 @@
 - Independency Injection with hilt 
 - Room
 - Paging
+- Uso de Either (functional programing)
+- States, Events
 - Gradle kts (Version catalog)
 
 
