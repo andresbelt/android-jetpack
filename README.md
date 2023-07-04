@@ -1,11 +1,11 @@
 # Test Platzi
-Application Android
-Compose
-Architecture repository
-Independency Injection with hilt in koltin  
-Room
-Offline First
-Gradle kts (Version catalog)
+- Compose
+- Architecture repository
+- Clean code
+- Independency Injection with hilt 
+- Room
+- Paging
+- Gradle kts (Version catalog)
 
 
 ## Architecture
