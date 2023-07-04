@@ -8,6 +8,7 @@
 - Uso de Either (functional programing)
 - States, Events
 - Gradle kts (Version catalog)
+- Unit test (mockk)
 
 
 ## Architecture
