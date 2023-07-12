@@ -1,4 +1,4 @@
-# Test Platzi
+# Test jetpack
 - Compose
 - Architecture repository
 - Clean code
